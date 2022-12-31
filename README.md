@@ -1,6 +1,5 @@
 ### README
 
-
-- 🔭 I’m am Kirk Cedrick Cartaño a freshmen BSIT student
-- 🌱 I’m currently learning C/C++ 
+- 🔭 I’m Kirk Cedrick Cartaño a sophomore
+- 🌱 I’m currently learning FullStack Web Development
 - 😄 Pronouns: He/Him
