@@ -1,5 +1,5 @@
 ### README
 
 - 🔭 I’m Kirk Cedrick Cartaño a sophomore
-- 🌱 I’m currently learning FullStack Web Development
+- 🌱 Interested in Learning Ethical Hacking and Web Development
 - 😄 Pronouns: He/Him
